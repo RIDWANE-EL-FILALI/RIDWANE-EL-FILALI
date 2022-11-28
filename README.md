@@ -5,12 +5,19 @@
 <h3 align="center">A passionate problem solver and Software Engineer student.</h3>
 
 <h2 > Badges </h2>
-<!-- <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/cel-oiri" alt="cel-oiri's 42 stats" /></a>
-</p> -->
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDWANE-EL-FILALI&theme=radical" />
+</p>
 
-| [![RIDWANE-EL-FILALI GitHub stats](https://github-readme-stats.vercel.app/api?username=RIDWANE-EL-FILALI&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=midnight-purple)](https://github.com/RIDWANE-EL-FILALI?tab=repositories) | [![RIDWANE-EL-FILALI most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RIDWANE-EL-FILALI&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/RIDWANE-EL-FILALI?tab=repositories) |
-|:-:|:-:|
+
+
+
+
+<h2> B.R.O.L.Y Github stats</h2>
+<a href="http://www.github.com/RIDWANE-EL-FILALI">
+ <img src="https://activity-graph.herokuapp.com/graph?username=RIDWANE-EL-FILALI&bg_color=2E2555&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="800" />
+</a>
 
 
 <h2 align="left">Languages and Tools:</h2>
