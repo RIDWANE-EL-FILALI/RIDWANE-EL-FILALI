@@ -6,8 +6,8 @@
 
 <h2 > Badges </h2>
 <p align="left">
-  <img width="42.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDWANE-EL-FILALI&theme=radical" />
+  <img width="44.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=github&theme=radical" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDWANE-EL-FILALI&theme=radical" />
 </p>
 
 
