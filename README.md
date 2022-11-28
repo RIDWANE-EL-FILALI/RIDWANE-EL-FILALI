@@ -16,7 +16,7 @@
 
 <h2> B.R.O.L.Y Github stats</h2>
 <a href="http://www.github.com/RIDWANE-EL-FILALI">
- <img src="https://activity-graph.herokuapp.com/graph?username=RIDWANE-EL-FILALI&bg_color=141321&color=ffffff&line=FE428E&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="920" />
+ <img src="https://activity-graph.herokuapp.com/graph?username=RIDWANE-EL-FILALI&bg_color=141321&color=ffffff&line=FE428E&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="960" />
 </a>
 
 
