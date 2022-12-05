@@ -4,20 +4,17 @@
 
 <h3 align="center">A passionate problem solver and Software Engineer student.</h3>
 
-<h2 > Badges </h2>
+<h2 > My stats </h2>
 <p align="left">
   <img width="44.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=github&theme=radical" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDWANE-EL-FILALI&theme=radical" />
 </p>
 
 
+<p>
+<img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDWANE-EL-FILALI&theme=radical&hide_border=true" />
+</p>
 
-
-
-<h2> B.R.O.L.Y Github stats</h2>
-<a href="http://www.github.com/RIDWANE-EL-FILALI">
- <img src="https://activity-graph.herokuapp.com/graph?username=RIDWANE-EL-FILALI&bg_color=141321&color=ffffff&line=FE428E&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="960" />
-</a>
 
 
 <h2 align="left">Languages and Tools:</h2>
