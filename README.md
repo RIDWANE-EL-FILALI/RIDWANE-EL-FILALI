@@ -12,7 +12,7 @@
 
 
 <p>
-<img width="920" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDWANE-EL-FILALI&theme=radical&hide_border=true" />
+<img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDWANE-EL-FILALI&theme=radical&hide_border=true" />
 </p>
 
 
