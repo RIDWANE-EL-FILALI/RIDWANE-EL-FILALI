@@ -6,18 +6,18 @@
 
 
 <h2 > My stats </h2>
-<p align="left">
-  <img width="44.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=github&theme=radical" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDWANE-EL-FILALI&theme=radical" />
-</p>
+<div align="right">
 
+<img SRC="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=level&theme=dark&showIcons=false&preferLogin=true&Background=000000&Text=FFFFFF&Title=FFFFFF&Ring=FFFFFF" alt="stats" width="500" height="200">
+<img SRC="https://github-readme-streak-stats.herokuapp.com?user=RIDWANE-EL-FILALI&theme=dark&border_radius=5&date_format=n%2Fj%5B%2FY%5D&ring=FFFFFF&fire=EB0000&currStreakLabel=FFFFFF&background=000000&border=FFFFFF" alt="stats" width="507" height="200">
 
-<p>
-<img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDWANE-EL-FILALI&theme=radical&hide_border=true" />
-</p>
+</div>
+<div>
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=RIDWANE-EL-FILALI&bg_color=000000&color=ffffff&line=ffffff&title_color=ffffff&point=ffffff&area=true&hide_border=true" alt="graph" width="989" align="right">
 
-
+</div>
+<div>
 <h2 align="left">Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,wordpress,visualstudio,linux)](https://skillicons.dev)
@@ -31,4 +31,5 @@
 <h2 align="left">Support Me:</h2>
 <p><a href="https://www.buymeacoffee.com/B.R.O.L.Y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ridwane-el-filali" /></a></p><br><br>
 
+</div>
 
