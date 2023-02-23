@@ -8,8 +8,8 @@
 <h2 > My stats </h2>
 <div align="right">
 
-<img SRC="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=level&theme=dark&showIcons=false&preferLogin=true&Background=000000&Text=FFFFFF&Title=FFFFFF&Ring=FFFFFF" alt="stats" width="500" height="200">
-<img SRC="https://github-readme-streak-stats.herokuapp.com?user=RIDWANE-EL-FILALI&theme=dark&border_radius=5&date_format=n%2Fj%5B%2FY%5D&ring=FFFFFF&fire=EB0000&currStreakLabel=FFFFFF&background=000000&border=FFFFFF" alt="stats" width="507" height="200">
+<img SRC="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=level&theme=dark&showIcons=false&preferLogin=true&Background=000000&Text=FFFFFF&Title=FFFFFF&Ring=FFFFFF" alt="stats" width="400" height="200">
+<img SRC="https://github-readme-streak-stats.herokuapp.com?user=RIDWANE-EL-FILALI&theme=dark&border_radius=5&date_format=n%2Fj%5B%2FY%5D&ring=FFFFFF&fire=EB0000&currStreakLabel=FFFFFF&background=000000&border=FFFFFF" alt="stats" width="400" height="200">
 
 </div>
 <div>
