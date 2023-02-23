@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🧑‍💻, I'm EL FILALI RIDWANE , BUT YOU CAN CALL ME B.R.O.L.Y</h1>
-<p align="center"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.codecorners.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fsenior-front-end-developer-openings-1.gif&f=1&nofb=1&ipt=189b009f82b2791d45519a08d5432d27e81488035661d2d50ec89db2cb57c132&ipo=images" width="500" height="230"/> </p>
+<p align="center"> <img src="https://giffiles.alphacoders.com/362/36249.gif" width="900" height="400"/> </p>
 
 
 <h3 align="center">A passionate problem solver and Software Engineer student.</h3>
