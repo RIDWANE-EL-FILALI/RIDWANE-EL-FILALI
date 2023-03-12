@@ -20,7 +20,7 @@
 <div>
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,wordpress,visualstudio,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,wordpress,visualstudio,linux)](https://skillicons.dev)
 
 
 <h2 align="left">Connect with me:</h2>
