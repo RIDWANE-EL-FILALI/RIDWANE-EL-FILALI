@@ -10,14 +10,6 @@
 
 <img SRC="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=level&theme=dark&showIcons=false&preferLogin=true&Background=000000&Text=FFFFFF&Title=FFFFFF&Ring=FFFFFF" alt="stats" width="420" height="200">
 <img SRC="https://github-readme-streak-stats.herokuapp.com?user=RIDWANE-EL-FILALI&theme=dark&border_radius=5&date_format=n%2Fj%5B%2FY%5D&ring=FFFFFF&fire=EB0000&currStreakLabel=FFFFFF&background=000000&border=FFFFFF" alt="stats" width="420" height="200">
-
-</div>
-<div>
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=RIDWANE-EL-FILALI&bg_color=000000&color=ffffff&line=ffffff&title_color=ffffff&point=ffffff&area=true&hide_border=true" alt="graph" width="989" align="right">
-
-</div>
-<div>
 <h2 align="left">Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,figma,wordpress,visualstudio,linux)](https://skillicons.dev)
