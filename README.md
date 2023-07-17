@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🧑‍💻, I'm EL FILALI RIDWANE , BUT YOU CAN CALL ME B.R.O.L.Y</h1>
+<h1 align="center">Hi 🧑‍💻, I'm EL FILALI RIDWANE, BUT YOU CAN CALL ME B.R.O.L.Y</h1>
 <p align="center"> <img src="https://giffiles.alphacoders.com/362/36249.gif" width="900" height="400"/> </p>
 
 
@@ -10,6 +10,8 @@
 
 <img SRC="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=level&theme=dark&showIcons=false&preferLogin=true&Background=000000&Text=FFFFFF&Title=FFFFFF&Ring=FFFFFF" alt="stats" width="420" height="200">
 <img SRC="https://github-readme-streak-stats.herokuapp.com?user=RIDWANE-EL-FILALI&theme=dark&border_radius=5&date_format=n%2Fj%5B%2FY%5D&ring=FFFFFF&fire=EB0000&currStreakLabel=FFFFFF&background=000000&border=FFFFFF" alt="stats" width="420" height="200">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RIDWANE-EL-FILALI&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2 align="left">Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,figma,wordpress,visualstudio,linux)](https://skillicons.dev)
