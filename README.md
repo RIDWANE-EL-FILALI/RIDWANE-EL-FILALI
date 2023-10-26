@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://giffiles.alphacoders.com/362/36249.gif" width="900" height="400"/> </p>
 
 
-<h3 align="center">A passionate problem solver and Software Engineer student. I am currently learning python </h3>
+<h3 align="center">A passionate problem solver and Software Engineer student. I am currently learning Python </h3>
 
 
 <h2 > My stats </h2>
