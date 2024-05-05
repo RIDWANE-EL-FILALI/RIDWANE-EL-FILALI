@@ -14,7 +14,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RIDWANE-EL-FILALI&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,figma,wordpress,visualstudio,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,figma,wordpress,visualstudio,linux,obsidian,docker,mysql,neovim,nginx,)](https://skillicons.dev)
 
 
 <h2 align="left">Connect with me:</h2>
