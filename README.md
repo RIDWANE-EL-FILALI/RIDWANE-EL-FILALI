@@ -13,8 +13,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RIDWANE-EL-FILALI&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2> Projects </h2>
 <div align="center">
+<h2 align="left"> Projects </h2>
 <a href="https://github.com/RIDWANE-EL-FILALI/libft"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/libftn.png"></a>
 <a href="https://github.com/RIDWANE-EL-FILALI/get_next_line"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/get_next_linen.png"></a>
 <a href="https://github.com/RIDWANE-EL-FILALI/ft_printf"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/ft_printfn.png"></a>
