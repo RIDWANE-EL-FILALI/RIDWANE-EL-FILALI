@@ -30,6 +30,7 @@
 <a href="https://github.com/RIDWANE-EL-FILALI/Inception"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/inceptionn.png"></a>
 </div>
 
+<div align="left">
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -41,8 +42,8 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/darknig42667951)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ridwane-elfilali-0ab7aa253/)
 
-<h2 align="left">Support Me:</h2>
-<p><a href="https://www.buymeacoffee.com/B.R.O.L.Y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ridwane-el-filali" /></a></p><br><br>
+<h2>Support Me:</h2>
+<p align="center"><a href="https://www.buymeacoffee.com/B.R.O.L.Y"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ridwane-el-filali" /></a></p><br><br>
 
 </div>
 
