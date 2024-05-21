@@ -44,6 +44,5 @@
 
 <h2>Support Me:</h2>
 <p align="center"><a href="https://www.buymeacoffee.com/B.R.O.L.Y"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ridwane-el-filali" /></a></p><br><br>
-
 </div>
 
