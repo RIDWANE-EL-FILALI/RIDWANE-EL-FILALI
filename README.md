@@ -34,7 +34,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,figma,wordpress,visualstudio,linux,obsidian,docker,mysql,neovim,nginx,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,figma,wordpress,visualstudio,linux,obsidian,docker,mysql,neovim,nginx,webpack,npm)](https://skillicons.dev)
 
 
 <h2 align="left">Connect with me:</h2>
