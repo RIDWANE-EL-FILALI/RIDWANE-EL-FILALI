@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&animation=fadeIn" />
+</div>
+
 <h1 align="center">Hi 🧑‍💻, I'm EL FILALI RIDWANE, BUT YOU CAN CALL ME B.R.O.L.Y</h1>
 <p align="center"> <img src="https://giffiles.alphacoders.com/362/36249.gif" width="900" height="400"/> </p>
 
@@ -47,3 +51,6 @@
 <p align="center"><a href="https://www.buymeacoffee.com/B.R.O.L.Y"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ridwane-el-filali" /></a></p><br><br>
 </div>
 
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&animation=fadeIn&section=footer" />
+</div>
