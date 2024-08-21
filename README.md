@@ -28,6 +28,7 @@
 <a href="https://github.com/RIDWANE-EL-FILALI/Cpp_Modules"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/cppn.png"></a>
 <a href="https://github.com/RIDWANE-EL-FILALI/LuxMancer-Mastering-Light-and-Shadow-MiniRT"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/minirtn.png"></a>
 <a href="https://github.com/RIDWANE-EL-FILALI/Inception"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/inceptionn.png"></a>
+<a href="https://github.com/RIDWANE-EL-FILALI/FT_IRC"> <img src="https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/ft_ircn.png"></a>
 </div>
 
 <div align="left">
