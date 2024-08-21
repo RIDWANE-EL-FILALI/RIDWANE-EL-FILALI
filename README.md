@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=950101&animation=fadeIn&section=header&reversal=true" />
 </div>
 
 <h1 align="center">Hi 🧑‍💻, I'm EL FILALI RIDWANE, BUT YOU CAN CALL ME B.R.O.L.Y</h1>
@@ -52,5 +52,5 @@
 </div>
 
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&animation=fadeIn&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=950101&animation=fadeIn&section=footer&reversal=true" />
 </div>
