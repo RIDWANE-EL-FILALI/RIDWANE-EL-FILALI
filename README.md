@@ -13,6 +13,11 @@
 <div align="right">
 ## 📘 Latest Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Computer systems](https://medium.com/@ridwaneelfilali/computer-systems-24afd3c7c15b?source=rss-ec334a39cb7e------2)
+- [Monolithic vs Microservices](https://medium.com/@ridwaneelfilali/monolithic-vs-microservices-db01366cef13?source=rss-ec334a39cb7e------2)
+- [CallBack hell](https://medium.com/@ridwaneelfilali/callback-hell-65f15e6d6668?source=rss-ec334a39cb7e------2)
+- [Oauth ️](https://medium.com/@ridwaneelfilali/oauth-eb6f54270701?source=rss-ec334a39cb7e------2)
+- [J.W.T IN DEPTH](https://medium.com/@ridwaneelfilali/j-w-t-in-depth-65a280e0b1bd?source=rss-ec334a39cb7e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
