@@ -8,9 +8,6 @@
 
 <h3 align="center">A passionate problem solver and Software Engineer student. I am currently learning Python </h3>
 
-
-<h2 > My stats </h2>
-<div align="right">
 ## 📘 Latest Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Computer systems](https://medium.com/@ridwaneelfilali/computer-systems-24afd3c7c15b?source=rss-ec334a39cb7e------2)
@@ -19,6 +16,9 @@
 - [Oauth ️](https://medium.com/@ridwaneelfilali/oauth-eb6f54270701?source=rss-ec334a39cb7e------2)
 - [J.W.T IN DEPTH](https://medium.com/@ridwaneelfilali/j-w-t-in-depth-65a280e0b1bd?source=rss-ec334a39cb7e------2)
 <!-- BLOG-POST-LIST:END -->
+
+<h2 > My stats </h2>
+<div align="right">
 
 
 <img SRC="https://awesome-github-stats.azurewebsites.net/user-stats/RIDWANE-EL-FILALI?cardType=level&theme=dark&showIcons=false&preferLogin=true&Background=000000&Text=FFFFFF&Title=FFFFFF&Ring=FFFFFF" alt="stats" width="420" height="200">
